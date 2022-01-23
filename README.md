@@ -1,0 +1,3 @@
+# Tech Savvy App: Food Quality AI Recognition
+
+This app uses Artificial Intelligence and Machine Learning to identify food quality. Using the image database Kaggle, it classifies spoiled and healthy food. That way, blind people won't have trouble finding healthy grocery items or picking out nutritious snacks from their kitchen. The project uses audio that explicitly guides the user on how the app works. If the user is sighted but needs insight on food, the app has eye-catching infographics and design. The project gives extra, significant knowledge, making it an excellent platform for education, too!
